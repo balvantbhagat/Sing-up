@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/* ese box content size chhota 
+    hota hai overall box size width or height leta hai */
+    /* border: 2px solid red; */
+
+}
+/* .box{
+    width: 200px;
+    height: 200px;
+    border: 10px solid red;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+} */
+/* div{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h1{
+    /* text-align: center; */
+    /* text-shadow: 5px 5px 5px red; */
+    /* text-decoration: line-through; */
+    /* text-decoration-color: aqua; 
+}
+p{
+    text-indent: 50px;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    display: flex;
+    font-style: italic;
+    
+}
+a{
+    text-decoration: none;
+    
+} */
+/* .position{
+    border: 1px solid black;
+    margin: 5px;
+    width: 300px;
+    height: 600px;
+    background-color: grey;
+    margin: 100px;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+#green{
+    background-color: green;
+    position: relative;
+    top: -50px;
+
+}
+#blue{
+    background-color: blue;
+    position: absolute;
+    left: 50px;
+
+
+}
+#red{
+    background-color: red;
+    position: fixed;
+
+
+}
+#sticky{
+    background-color: darkturquoise;
+    position: sticky;
+    top: 50px;
+}
+.spacer{
+    height: 300vh;
+} */
+.container{
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    overflow: auto;
+}
